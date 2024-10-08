@@ -4,7 +4,7 @@
 <br>
 👷‍♂️ Work-related has mostly been ***VBA*** and ***SQL***
 <br>
-Made an deck-building game as a learning project, and working on a internal work-tool fetching data from various sources --> ETL --> vizualise
+Made an deck-building game as a learning project,<br> and working on a internal work-tool fetching data from various sources --> ETL --> vizualise
 <br>
 Python libraries I have dabbled in so far:
   - Tkinter (Customtkinter)
