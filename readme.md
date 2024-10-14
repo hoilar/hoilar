@@ -1,6 +1,6 @@
 ### ME 🫡
 
-🐍 At the moment I'm learning ***Python*** and have working myself through CS50P from harvard and EdX.
+🐍 At the moment I'm learning ***Python***
 <br>
 👷‍♂️ Work-related has mostly been ***VBA*** and ***SQL***
 <br><br>
