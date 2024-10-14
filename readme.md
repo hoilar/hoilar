@@ -12,3 +12,5 @@ Python libraries I have dabbled in so far:
   - Streamlit
   - SQLalchemy
   - Pandas
+  - APScheduler
+  - Requests
