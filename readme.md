@@ -9,6 +9,7 @@ Made an deck-building game as a learning project,<br> and working on a internal 
 Python libraries I have dabbled in so far:
   - Tkinter (Customtkinter)
   - Flask
+  - FastAPI
   - Streamlit
   - SQLalchemy
   - Pandas
